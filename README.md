@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-# Lutho Masoka       (luthomasoka@gmail.com)
+* Lutho Masoka       (luthomasoka@gmail.com)
